@@ -1,0 +1,128 @@
+body {
+  background-color: #091211;
+  color: #ffffff;
+  font-family: cursive, calibri;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+main {
+align-items: center;
+}
+
+.container {
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+
+img{
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+
+h1 {
+  padding-right: 10px;
+  padding-left: 10px;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.palindrome-div {
+  padding-right: 10px;
+  padding-left: 10px;
+  align-items: center;
+  position: center;
+  display: flex;
+  flex-direction: column;
+}
+
+
+h2 {
+  padding-top: 40px;
+  padding-right: 10px;
+  padding-left: 10px;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+
+#label-input-text {
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.validation-container {
+  padding-bottom: 20px;
+}
+
+#text-input {
+  border-radius: 50px;
+  background-color: #2e4d75;
+  color: #ffffff;
+  padding-top: 5px;
+  padding-right: 50px;
+  padding-bottom: 5px;
+  padding-left: 50px;
+}
+
+
+#check-btn {
+  border-radius: 30px;
+  background-color: #2e4d75;
+  color: #ffffff;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+
+
+
+
+.palindrome-defined-div {
+  padding-right: 20px;
+  padding-left: 20px;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: 5px solid #2e4d75; 
+  width: 100%; 
+  height: 100;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+
+#result {
+  color: #db4047;
+  font: bold;
+  padding-top: 30px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+
+
